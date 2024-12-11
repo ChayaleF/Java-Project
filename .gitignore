@@ -22,3 +22,13 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+.metadata/
+
+build/
+nbproject/
+conf/
+
+project/build.xml
+
+project/src/java/hibernate.cfg (1).xml
